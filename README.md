@@ -18,6 +18,25 @@ BeforeStarting.ipynb
 experimentFormatSubmit.ipynb 
 ``` 
 
+
+**Managing Experiments**
+
+ 
+``` 
+listExperiments.ipynb
+haltJob.ipynb
+haltAllJobs.ipynb
+listQueue.ipynb 
+wipeQueue.ipynb
+deleteFromQueue.ipynb 
+plotResults.ipynb
+wipeQueue.ipynb
+getSettings.ipynb 
+getSource.ipynb 
+``` 
+
+
+
  ## Before Starting
 
 ### Python version
@@ -60,21 +79,4 @@ python [PATH TO JOBSTARTER]/jobStarter.pyc
 
  
 
-
-
-**Managing Experiments**
-
- 
-``` 
-listExperiments.ipynb
-haltJob.ipynb
-haltAllJobs.ipynb
-listQueue.ipynb 
-wipeQueue.ipynb
-deleteFromQueue.ipynb 
-plotResults.ipynb
-wipeQueue.ipynb
-getSettings.ipynb 
-getSource.ipynb 
-``` 
 
