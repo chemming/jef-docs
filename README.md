@@ -1,9 +1,9 @@
 # jef-docs
-Jupyter Experiment Framework documentation
+JEF (Jupyter Experiment Framework) and JEM (Jupyter Execution Manager) documentation
 
 ## Introduction
 
-This set of Jupyter Notebooks explains installation of jef, its usage for running experiments, and the managing of experiments.
+This set of Jupyter Notebooks explains installation of JEF, its usage for running experiments, and the managing of experiments.
 
 **Installation and general considerations**
 
@@ -12,16 +12,15 @@ Installation.ipynb
 BeforeStarting.ipynb
 ```
 
-**Using jef to run experiments**
+**Using JEF to run experiments**
 
 ```
 experimentFormatSubmit.ipynb 
 ``` 
 
 
-**Managing Experiments**
+**Managing Experiments with JEF Experiment Manager**
 
- 
 ``` 
 listExperiments.ipynb
 haltJob.ipynb
@@ -35,6 +34,11 @@ getSettings.ipynb
 getSource.ipynb 
 ``` 
 
+**Managing Experiments with JEM Process Manager**
+
+```
+JEMProcessManager.ipynb
+```
 
 
  ## Before Starting
